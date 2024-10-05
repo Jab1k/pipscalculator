@@ -14,7 +14,7 @@ Author: [JabikJan](https://www.github.com/Jab1k) <jobir4166@gmail.com>
 
 ## Run
 
-A script named `pycalc` should be automatically installed by pip.
+A script named `requests` should be automatically installed by pip.
 
 1. Run in interactive mode
 
