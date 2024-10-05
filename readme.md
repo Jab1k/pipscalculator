@@ -1,4 +1,4 @@
-# PyCalculator v2
+# Pips Calculator
 
 Author: [JabikJan](https://www.github.com/Jab1k) <jobir4166@gmail.com>
 
